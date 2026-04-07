@@ -1,0 +1,5 @@
+{
+  "name": "Key Racing Competition Platform",
+  "description": "A real-time multiplayer typing competition platform with admin controls, live leaderboards, and host display mode.",
+  "requestFramePermissions": []
+}
